@@ -13,7 +13,19 @@ Partindo de um projeto quase pronto, posicionei os elementos da página utilizan
 Tópicos abordados:
 
 Introdução ao flexbox e fazendo o cabeçalho.
+
+---
+
 Fazendo o footer e controlando melhor os elementos.
+
+---
+
 Grid principal e limitações do flexbox.
+
+---
+
 Arrumando os elementos com flex para mobile.
+
+---
+
 Mais sobre flexbox & desafios.
