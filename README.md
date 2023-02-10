@@ -10,7 +10,7 @@ Flexbox
 
 Partindo de um projeto quase pronto, posicionei os elementos da página utilizando as ferramentas do Flexbox.
 
-Tópicos abordados:
+## Tópicos abordados:
 
 Introdução ao flexbox e fazendo o cabeçalho.
 
